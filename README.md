@@ -1,3 +1,3 @@
 # text_summerizer-in-speech
-Provide text to summarize in text.pdf
-Run temp.py
+1.Provide text to summarize in text.pdf
+2.Run temp.py
